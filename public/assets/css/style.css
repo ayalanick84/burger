@@ -1,7 +1,20 @@
+#page {
+  background-color: #fceea7;
+}
+img{
+  max-width: 100px;
+  max-height: 100px;
+}
+h1{
+  text-align: center;
+}
 li {
+  font-size: large;
+  font-weight: bold;
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #fceea7;
+  
 }
 
 .label {
@@ -16,4 +29,9 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+.container {
+  width:100%;
+  padding: 70px 0px 70px 0px;
+  margin: 0;
 }
